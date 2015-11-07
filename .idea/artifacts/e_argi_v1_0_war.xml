@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="e-argi_v1.0:war">
+    <output-path>$PROJECT_DIR$/../test1/target</output-path>
+    <root id="archive" name="e-argi_v1.0.war">
+      <element id="artifact" artifact-name="e-argi_v1.0:war exploded" />
+    </root>
+  </artifact>
+</component>
